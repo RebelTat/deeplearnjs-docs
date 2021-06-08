@@ -9,7 +9,7 @@
     "make-api": "ts-node ./src/make-api"
   },
   "dependencies": {
-    "commander": "^2.14.1",
+    "commander": "^7.2.0",
     "mkdirp": "^0.5.1",
     "shelljs": "^0.8.1",
     "ts-node": "^5.0.1",
