@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "commander": "^2.14.1",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.4",
     "shelljs": "^0.8.1",
     "ts-node": "^5.0.1",
     "typescript": "^2.7.2"
